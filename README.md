@@ -48,12 +48,20 @@ Here are some ideas to get you started:
   </tr>
   <tr>    
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="65" height="65" alt="WordPress" />
-      <br>WordPress
+        <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" />
+      <br>Flutter
     </td>  
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
       <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" />
+      <br>SQlite
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+      <br>Docker
     </td>
     <td align="center" width="96">
       <!-- Espaço reservado para futura tecnologia ou para manter o layout simétrico -->
