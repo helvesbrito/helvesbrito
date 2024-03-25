@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 <table align="center">
   <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" />
+      <br>Flutter
+    </td> 
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
       <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
-      <br>MySQL
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
@@ -46,11 +46,7 @@ Here are some ideas to get you started:
       <br>VsCode
     </td>
   </tr>
-  <tr>    
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter" />
-      <br>Flutter
-    </td>  
+  <tr>     
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
       <br>PostgreSQL
