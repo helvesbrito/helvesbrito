@@ -31,6 +31,14 @@ Here are some ideas to get you started:
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
       <br>Django
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" />
+      <br>SQlite
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -45,16 +53,16 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VsCode" />
       <br>VsCode
     </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+      <br>Docker
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+      <br>Docker
+    </td>
   </tr>
   <tr>     
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" />
-      <br>SQlite
-    </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
       <br>Docker
