@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <!--
-**helvesbrito/helvesbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 <b>⚡ Github Stats</b>
     <br />
     <p align="center">
-        <a href="https://github.com/HiCMSDev?tab=repositories">
+        <a href="https://github.com/helvesbrito?tab=repositories">
             <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=helvesbrito&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
             <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=helvesbrito&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
         </a>
