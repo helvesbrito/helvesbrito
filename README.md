@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 About Me
-I am a Delphi and Flutter developer.
+I'm a Delphi and Flutter developer.
 
 <!-- activity graph heroku-app start -->
 <p align="center">
