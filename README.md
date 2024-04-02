@@ -81,16 +81,7 @@ I'm a Delphi and Flutter developer.
         <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
       <br>Docker
     </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
-      <br>Docker
-    </td>
   </tr>
-    <td align="center" width="96">
-      <!-- Espaço reservado para futura tecnologia ou para manter o layout simétrico -->
-      <br>
-    </td>
- </tr>
 </table>
 
 inspirado em: https://github.com/HiWebDev0026/HiWebDev0026/blob/main/README.md
