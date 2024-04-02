@@ -40,7 +40,7 @@ I'm a Delphi and Flutter developer.
 <table align="center">
   <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=delphi" width="65" height="65" alt="Delphi" />
+        <img src="https://d2ohlsp9gwqc7h.cloudfront.net/images/logos/logo-page/rad-studio-logo-1024.png" width="65" height="65" alt="Delphi" />
       <br>Delphi
     </td> 
      <td align="center" width="96">
