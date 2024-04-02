@@ -86,11 +86,6 @@ I'm a Delphi and Flutter developer.
       <br>Docker
     </td>
   </tr>
-  <tr>     
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
-      <br>Docker
-    </td>
     <td align="center" width="96">
       <!-- Espaço reservado para futura tecnologia ou para manter o layout simétrico -->
       <br>
