@@ -52,6 +52,10 @@ I'm a Delphi and Flutter developer.
       <br>Python
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Restapi" />
+      <br>RESTAPI
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="Django" />
       <br>Django
     </td>
