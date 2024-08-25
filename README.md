@@ -81,6 +81,10 @@ I'm a Delphi and Flutter developer.
         <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
       <br>Docker
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=grafana" width="65" height="65" alt="Grafana" />
+      <br>Grafana
+    </td>
   </tr>
 </table>
 
